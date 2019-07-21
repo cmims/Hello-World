@@ -1,4 +1,4 @@
-package com.slethron.emoji;
+package com.slethron.helloworld;
 
 import java.util.Random;
 

@@ -1,7 +1,5 @@
 package com.slethron.helloworld;
 
-import com.slethron.emoji.EmojiGenerator;
-
 import java.time.ZoneOffset;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;

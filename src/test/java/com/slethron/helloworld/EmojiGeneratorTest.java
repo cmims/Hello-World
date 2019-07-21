@@ -1,6 +1,5 @@
-package com.slethron.emoji.test;
+package com.slethron.helloworld;
 
-import com.slethron.emoji.EmojiGenerator;
 import org.junit.Before;
 import org.junit.Test;
 
